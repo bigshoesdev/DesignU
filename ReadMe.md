@@ -11,4 +11,8 @@ Laravel, Josh Template, 3rd Party Authentification (wechat, Google, Facebook ), 
 4. run 'php artisan db:seed'
 
 # Images
+![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture8.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture9.PNG?raw=true)
 ![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture10.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture11.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture12.PNG?raw=true)
